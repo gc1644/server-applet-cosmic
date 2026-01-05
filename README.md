@@ -4,18 +4,18 @@ A minimal COSMIC panel applet that pings a server every 30 seconds and shows a s
 
 ![Applet Demo](demo.gif)
 
-## Installation
+# Installation
 
-# Clone and build
+## Clone and build
 git clone https://github.com/yourusername/cosmic-server-status-applet.git
 cd cosmic-server-status-applet
 cargo build --release
 
-# Install
+## Install
 sudo cp target/release/server-status-applet /usr/lib/cosmic/applets/
 # Or use `just install` if available
 
-# Restart panel
+## Restart panel
 pkill cosmic-panel
 
 Start the thing via COSMIC Settings → Desktop → Panel → + Add applet.
