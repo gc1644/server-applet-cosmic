@@ -1,6 +1,6 @@
-# COSMIC Server Status Applet
+# Server Status Applet for COSMIC DE
 
-A minimal COSMIC panel applet that pings a server every 30 seconds and shows a status
+A minimal panel applet that pings a server every 30 seconds and shows a status
 
 ![Applet Demo](demo.gif)
 
