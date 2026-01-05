@@ -1,12 +1,11 @@
 # COSMIC Server Status Applet
 
-A minimal COSMIC panel applet that pings a server every 30 seconds and shows status
+A minimal COSMIC panel applet that pings a server every 30 seconds and shows a status
 
 ![Applet Demo](demo.gif)
 
 ## Installation
 
-```bash
 # Clone and build
 git clone https://github.com/yourusername/cosmic-server-status-applet.git
 cd cosmic-server-status-applet
