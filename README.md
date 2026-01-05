@@ -17,4 +17,4 @@ sudo cp target/release/server-status-applet /usr/lib/cosmic/applets/
 # Restart panel
 pkill cosmic-panel
 
-Add it via COSMIC Settings → Desktop → Panel → + Add applet.
+Start the thing via COSMIC Settings → Desktop → Panel → + Add applet.
