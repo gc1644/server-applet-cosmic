@@ -2,6 +2,8 @@
 
 A minimal COSMIC panel applet that pings a server every 30 seconds and shows status
 
+![Applet Demo](demo.gif)
+
 ## Installation
 
 ```bash
