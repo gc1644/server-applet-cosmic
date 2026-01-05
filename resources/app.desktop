@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Server Status Applet
+Comment=Shows my server status
+Type=Application
+Icon=com.example.ServerStatus
+Exec=server-status-applet %F
+Terminal=false
+StartupNotify=true
+Categories=COSMIC
+Keywords=COSMIC
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicHoverPopup=Auto
+MimeType=
