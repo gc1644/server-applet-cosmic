@@ -17,7 +17,4 @@ sudo cp target/release/server-status-applet /usr/lib/cosmic/applets/
 # Restart panel
 pkill cosmic-panel
 
-Then add it via COSMIC Settings → Desktop → Panel → + Add applet.
-=======
-# cosmic-server-applet
-shows if my server is up
+Add it via COSMIC Settings → Desktop → Panel → + Add applet.
