@@ -16,7 +16,4 @@ cargo build --release
 sudo cp target/release/server-status-applet /usr/lib/cosmic/applets/
 # Or use `just install` if available
 
-# Restart panel
-pkill cosmic-panel
-
 Start the thing via COSMIC Settings → Desktop → Panel → Add applet.
